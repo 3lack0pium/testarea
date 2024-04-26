@@ -1,0 +1,1102 @@
+{
+    "categorie": [
+        {
+            "nome": "Floreale Bianco",
+            "color": "#29e228",
+            "items": [
+                {
+                    "id": 1,
+                    "nome": "Accordo Rosa",
+                    "casn": "",
+                    "nota": "cuore",
+                    "descrizione": "Odore caratteristico di rosa, che richiama il profumo elegante e vellutato dei suoi petali. ",
+                    "durata": ""
+                },
+                {
+                    "id": 2,
+                    "nome": "Acetato Benzile",
+                    "casn": "140-11-4",
+                    "nota": "testa",
+                    "descrizione": "Odore forte, di gelsomino, fiorito e fruttato. Principale componente dell'ass. gelsomino e ess. gardenia, presente in quantità minori in molti altri oli essenziali.",
+                    "durata": "4 h"
+                },
+                {
+                    "id": 5,
+                    "nome": "Acetato Feniletile",
+                    "casn": "103-45-7",
+                    "nota": "testa",
+                    "descrizione": "Odore fiorito dolce di rosa, con sfumature fruttate tropicali e gourmand di miele",
+                    "durata": "16 h"
+                },
+                {
+                    "id": 6,
+                    "nome": "Acetato Geranile",
+                    "casn": "105-87-3",
+                    "nota": "cuore",
+                    "descrizione": "Odore fiorito di rosa con sfumature fruttate di pera e mela verde, leggermente verde ricorda la lavanda. Presente in molti oli ess., tra cui eucalipto, palmarosa, geranio, citronela, petitgrain, lavanda.",
+                    "durata": "24h"
+                },
+                {
+                    "id": 8,
+                    "nome": "Acetato Nerile",
+                    "casn": "141-12-8",
+                    "nota": "",
+                    "descrizione": "Odore floreale fruttato che ricorda la rosa il geranio o il giacinto.",
+                    "durata": ""
+                },
+                {
+                    "id": 11,
+                    "nome": "Alcool Feniletilico",
+                    "casn": "60-12-8",
+                    "nota": "cuore",
+                    "descrizione": "Odore fiorito di rosa, fresco e trasparente, di petalo, con sfumature di miele e mandorla",
+                    "durata": "32 h"
+                },
+                {
+                    "id": 12,
+                    "nome": "Aldeide Alfa Exilcinnamica",
+                    "casn": "165184-98-5",
+                    "nota": "cuore",
+                    "descrizione": "Odore delicato, dolce-oleoso, leggermente floreale di gelsomino, con sfumature erbacee e accenni agrumati.",
+                    "durata": "400h"
+                },
+                {
+                    "id": 20,
+                    "nome": "Alfa Damascone 10% TRI",
+                    "casn": "24720-09-0",
+                    "nota": "cuore",
+                    "descrizione": "Odore intenso, dal carattere fiorito di rosa e fruttato di mela cotta.",
+                    "durata": "64 h"
+                },
+                {
+                    "id": 31,
+                    "nome": "ASS. Rosa Centifolia (Turchia)",
+                    "casn": "84604-12-6",
+                    "nota": "cuore",
+                    "descrizione": "Odore caratteristico di rosa, con sfumature ricche di miele e leggermente speziate",
+                    "durata": "n.d."
+                },
+                {
+                    "id": 35,
+                    "nome": "BETA-DAMASCONE",
+                    "casn": "23726-91-2",
+                    "nota": "cuore",
+                    "descrizione": "Odore fruttato scuro, fiorito di rosa e dolce gourmand di miele.",
+                    "durata": "264 h"
+                },
+                {
+                    "id": 39,
+                    "nome": "Citronellolo 950",
+                    "casn": "106-22-9",
+                    "nota": "cuore",
+                    "descrizione": "Odore fiorito di rosa, fresco, che ricorda la citronella e limone, con sfumature di fresia e mughetto.",
+                    "durata": "56 h"
+                },
+                {
+                    "id": 41,
+                    "nome": "Damascenone 1% TRI",
+                    "casn": "23696-85-7",
+                    "nota": "cuore",
+                    "descrizione": "Odore fruttato di frutti rossi, fiorito di rosa, mielato e cipriato, lievemente speziato in testa.",
+                    "durata": "191h"
+                },
+                {
+                    "id": 75,
+                    "nome": "Farnesolo",
+                    "casn": "4602-84-0",
+                    "nota": "coda",
+                    "descrizione": "Odore dolce e floreale con aspetti verdi",
+                    "durata": ""
+                },
+                {
+                    "id": 83,
+                    "nome": "GERANIOLO TA 5020",
+                    "casn": "106-24-1",
+                    "nota": "cuore",
+                    "descrizione": "Odore fiorito fresco di rosa e gelsomino con accenti citrici e “saponosi”.",
+                    "durata": "60h"
+                },
+                {
+                    "id": 86,
+                    "nome": "Hedione",
+                    "casn": "24851-98-7",
+                    "nota": "cuore",
+                    "descrizione": "Odore fiorito trasparente e diffusivo, ricorda il petalo del gelsomino, con sottotoni grassi.",
+                    "durata": "72h"
+                },
+                {
+                    "id": 88,
+                    "nome": "Heliotropex N (IFF)",
+                    "casn": "miscela",
+                    "nota": "",
+                    "descrizione": "Odore floreale balsamico simile alla vanillina ed alla ciliegia",
+                    "durata": ""
+                },
+                {
+                    "id": 96,
+                    "nome": "LINALOLO",
+                    "casn": "",
+                    "nota": "testa",
+                    "descrizione": "Odore fresco-floreale, con sfumature agrumate, con sottotono leggermente simile al coriandolo.",
+                    "durata": "12h"
+                },
+                {
+                    "id": 105,
+                    "nome": "Nerolo",
+                    "casn": "106-25-2",
+                    "nota": "cuore",
+                    "descrizione": "Odore piacevole di rosa, con un sentore fresco e verde e sfumature esperidate.",
+                    "durata": "44 h"
+                },
+                {
+                    "id": 107,
+                    "nome": "Ossido Di Rosa",
+                    "casn": "16409-43-1",
+                    "nota": "testa",
+                    "descrizione": "Odore metallico verde di rosa che ricorda le foglie di geranio.",
+                    "durata": "40 h"
+                },
+                {
+                    "id": 108,
+                    "nome": "Para-Cresolo",
+                    "casn": "106-44-5",
+                    "nota": "cuore/coda",
+                    "descrizione": "legnoso, animale e leggermente floreale, con sfumature che ricordano il cuoio e il miele",
+                    "durata": ""
+                },
+                {
+                    "id": 116,
+                    "nome": "Rosamon 10% TRI",
+                    "casn": "90-17-5",
+                    "nota": "coda",
+                    "descrizione": "Odore fiorito di rosa, dalla persistenza notevole. In soluzione al 10% con Triacetina. ",
+                    "durata": "400h"
+                },
+                {
+                    "id": 117,
+                    "nome": "Rosaphen",
+                    "casn": "25634-93-9",
+                    "nota": "coda",
+                    "descrizione": "Odore ceroso di rosa che ricorda i petali di rosa.",
+                    "durata": ""
+                },
+                {
+                    "id": 120,
+                    "nome": "Salicilato Metile",
+                    "casn": "119-36-8",
+                    "nota": "testa",
+                    "descrizione": "Odore medicinale potente, utile in accordi di fiori bianchi (tuberosa).",
+                    "durata": "8 h"
+                },
+                {
+                    "id": 127,
+                    "nome": "Tuberose HS4755",
+                    "casn": "",
+                    "nota": "",
+                    "descrizione": "Odore floreale bianco di tuberosa, con vago sentore terroso.",
+                    "durata": ""
+                },
+                {
+                    "id": 131,
+                    "nome": "Viridine",
+                    "casn": "101-48-4",
+                    "nota": "testa",
+                    "descrizione": "Odore verde terroso, di gambo di fiore, floreale di giacinto.",
+                    "durata": "100 h"
+                }
+            ]
+        },
+        {
+            "nome": "Legnoso",
+            "color": "#d194ac",
+            "items": [
+                {
+                    "id": 3,
+                    "nome": "Acetato Cedrile",
+                    "casn": "77-54-3",
+                    "nota": "coda",
+                    "descrizione": "Odore legnoso, con leggere reminiscenze di cuoio e sottotono terroso.",
+                    "durata": "400 h"
+                },
+                {
+                    "id": 22,
+                    "nome": "Amber Core",
+                    "casn": "139504-68-0",
+                    "nota": "coda",
+                    "descrizione": "Odore ambrato e legnoso, vellutato e delicato.",
+                    "durata": "42h"
+                },
+                {
+                    "id": 23,
+                    "nome": "Ambranextra Puro (solido)",
+                    "casn": "118562-73-5",
+                    "nota": "coda",
+                    "descrizione": "Odore ambrato e legnoso secco.",
+                    "durata": "n.d."
+                },
+                {
+                    "id": 27,
+                    "nome": "ASS. CASTOREO ",
+                    "casn": "",
+                    "nota": "coda",
+                    "descrizione": "Odore animale e fenolico di cuoio e oliva nera, in piccolissima dose ricorda la bacca di vaniglia. ",
+                    "durata": "n.d."
+                },
+                {
+                    "id": 28,
+                    "nome": "ASS. MATE DEC.",
+                    "casn": "",
+                    "nota": "cuore",
+                    "descrizione": "Odore vegetale di thé verde con sfumature fruttate di prugna e albicocca e balsamiche di tabacco e cuoio.",
+                    "durata": "n.d."
+                },
+                {
+                    "id": 30,
+                    "nome": "ASS. MUSCHIO DI QUERCIA",
+                    "casn": "",
+                    "nota": "testa/cuore",
+                    "descrizione": "Odore legnoso e polveroso di lichene, con accenti caldi, fenolici e di sottobosco.",
+                    "durata": "480h"
+                },
+                {
+                    "id": 44,
+                    "nome": "ESS. AGARWOOD RICOSTRUITO",
+                    "casn": "",
+                    "nota": "coda",
+                    "descrizione": "Odore caratteristico di Oud, dolce, legnoso, balsamico con intense sfumature animaliche",
+                    "durata": "400h"
+                },
+                {
+                    "id": 47,
+                    "nome": "ESS. Betulla Rett.",
+                    "casn": "8001-88-5",
+                    "nota": "coda",
+                    "descrizione": "Odore potentissimo, acre, animale e affumicato, usato per accordi di cuoio.",
+                    "durata": "1440h"
+                },
+                {
+                    "id": 58,
+                    "nome": "ESS. Legno di Cedro della Virginia",
+                    "casn": "85085-41-2",
+                    "nota": "coda",
+                    "descrizione": "Odore legnoso di matita, secco, terroso",
+                    "durata": "192h"
+                },
+                {
+                    "id": 66,
+                    "nome": "ESS. PATCHOULI",
+                    "casn": "",
+                    "nota": "coda",
+                    "descrizione": "Odore legnoso e caldo, con sfacettature canforacee. Alcune qualità ricordano il cioccolato fondente.",
+                    "durata": "400h"
+                },
+                {
+                    "id": 67,
+                    "nome": "ESS. Pepe Nero",
+                    "casn": "84929-41-9",
+                    "nota": "cuore",
+                    "descrizione": "Odore fresco, con un sottotono secco-legnoso, caldo-speziato, con reminiscenze non solo di pepe nero, ma anche di elemi, litzea, e altri oli es. con un alto contenuto di terpeni e sequiterpeni.",
+                    "durata": "20h"
+                },
+                {
+                    "id": 71,
+                    "nome": "ESS. VETIVER GIAVA",
+                    "casn": "",
+                    "nota": "coda",
+                    "descrizione": "Odore legnoso e terroso, richiama le radici, con sfumature affumicate dolci",
+                    "durata": "642h"
+                },
+                {
+                    "id": 72,
+                    "nome": "ETIL LINALOLO",
+                    "casn": "",
+                    "nota": "cuore",
+                    "descrizione": "Odore fresco fiorito con sottotono legnoso-verde.",
+                    "durata": "12 h"
+                },
+                {
+                    "id": 76,
+                    "nome": "FICO 30865 ADO BOTTIGLIA GR 10",
+                    "casn": "",
+                    "nota": "",
+                    "descrizione": "Un albero di fico in tutte le sue sfaccettature: la buccia del frutto, dal sentore verde e intenso, i semi morbidi e zuccherini e il tronco, dal profumo deciso e legnoso.",
+                    "durata": ""
+                },
+                {
+                    "id": 92,
+                    "nome": "Ionone Alfa",
+                    "casn": "127-41-3",
+                    "nota": "coda",
+                    "descrizione": "Odore fiorito che ricorda l’iris e la violetta, con un sottotono legnoso.",
+                    "durata": "112 h"
+                },
+                {
+                    "id": 93,
+                    "nome": "Iso E Super",
+                    "casn": "54464-57-2",
+                    "nota": "cuore/coda",
+                    "descrizione": "Odore legnoso (legno cedro) vellutato, diffusivo con accenti ambrati di ambra grigia.",
+                    "durata": "172h"
+                },
+                {
+                    "id": 103,
+                    "nome": "MOUSSE DE METRE 10% TRI",
+                    "casn": "",
+                    "nota": "coda",
+                    "descrizione": "Odore legnoso che richiama il muschio di quercia, con accenti polverosi e fenolici, di terra",
+                    "durata": "400h"
+                },
+                {
+                    "id": 115,
+                    "nome": "RESINOIDE STORACE",
+                    "casn": "8046-19-3",
+                    "nota": "coda",
+                    "descrizione": "Odore balsamico con accenti fioriti / speziati, ricorda la lilla, l’oliva, la mandorla e il cuoio.",
+                    "durata": "400h"
+                },
+                {
+                    "id": 122,
+                    "nome": "SANDALORE",
+                    "casn": "",
+                    "nota": "coda",
+                    "descrizione": "Odore caldo e legnoso di sandalo con sfumature dolci.",
+                    "durata": "400h"
+                },
+                {
+                    "id": 130,
+                    "nome": "VERTOFIX COEUR",
+                    "casn": "",
+                    "nota": "coda",
+                    "descrizione": "Odore legnoso ricco, con sottotono muschiato, con sentori secchi di legno cedro e cuoio.",
+                    "durata": "400h"
+                }
+            ]
+        },
+        {
+            "nome": "Verde",
+            "color": "#290e54",
+            "items": [
+                {
+                    "id": 4,
+                    "nome": "Acetato Exile",
+                    "casn": "142-92-7",
+                    "nota": "testa",
+                    "descrizione": "Odore fruttato-verde che richiama quello della pera e della mela. Presente in natura in molti frutti, nonché negli oli essenziali di giacinto, lavandino, lavanda, salvia, etc",
+                    "durata": "5 h"
+                },
+                {
+                    "id": 7,
+                    "nome": "Acetato Linalile",
+                    "casn": "115-95-7",
+                    "nota": "testa/cuore",
+                    "descrizione": "Odore fiorito fresco e verde che ricorda la lavanda, con sfumature agrumate di bergamotto, leggermente fruttato. Principale componente di lavanda, lavandino e bergamotto. E' possible trovarlo in piccole quantità anche nella salvia e in diversi altri oli essenziali.",
+                    "durata": "20 h"
+                },
+                {
+                    "id": 10,
+                    "nome": "Agrumex",
+                    "casn": "88-41-5",
+                    "nota": "testa",
+                    "descrizione": "Odore fruttato con di mela verde, con sfumature canforacee, dal fondo dolce ambrato, con reminescenze legnose muschiate. ",
+                    "durata": "8h"
+                },
+                {
+                    "id": 17,
+                    "nome": "Aldeide C6",
+                    "casn": "66-25-1",
+                    "nota": "testa",
+                    "descrizione": "Odore grasso, verde, che richiama la frutta acerba, la mela e l’erba appena tagliata.",
+                    "durata": "4 h"
+                },
+                {
+                    "id": 18,
+                    "nome": "Aldeide C9",
+                    "casn": "124-19-6",
+                    "nota": "testa",
+                    "descrizione": "Odore fresco, grasso e verde esperidato.",
+                    "durata": "276 h"
+                },
+                {
+                    "id": 45,
+                    "nome": "ESS. AGHI DI PINO",
+                    "casn": "",
+                    "nota": "testa",
+                    "descrizione": "Odore fresco e verde speziato di conifera.",
+                    "durata": ""
+                },
+                {
+                    "id": 77,
+                    "nome": "FLORALOZONE",
+                    "casn": "67634-15-5",
+                    "nota": "testa/cuore",
+                    "descrizione": "Potente, pulito, verde, di aria fresca con reminiscenze di brezza oceanica.",
+                    "durata": "80 h"
+                },
+                {
+                    "id": 84,
+                    "nome": "Green Dioxolane (Syvertal)",
+                    "casn": "120-72-8",
+                    "nota": "testa",
+                    "descrizione": "Odore verde radicale, fresco e intenso, con reminiscenze di ravanello, radice di loto e vegetazione verde acerba. Per composizioni primaverili (accordo di negozio di fiori) ma come modificatore unico per vetiver, gardenia.",
+                    "durata": "4 h"
+                },
+                {
+                    "id": 87,
+                    "nome": "Helional",
+                    "casn": "1205-17-0",
+                    "nota": "cuore",
+                    "descrizione": "Odore fiorito-verde che richiama il ciclamino, con accentuate note di testa ozoniche, sottotono di fieno e reminiscenze di melone.",
+                    "durata": "64h"
+                },
+                {
+                    "id": 89,
+                    "nome": "Herbavert",
+                    "casn": "67583-77-1",
+                    "nota": "testa",
+                    "descrizione": "Odore verde, fruttato, erbaceo.",
+                    "durata": "60 h"
+                },
+                {
+                    "id": 98,
+                    "nome": "MANZANATE 1% TRI",
+                    "casn": "",
+                    "nota": "cuore",
+                    "descrizione": "Odore fruttato-verde, che richiama l’ananas e la mela ",
+                    "durata": "4h"
+                },
+                {
+                    "id": 99,
+                    "nome": "Melonal",
+                    "casn": "106-72-9",
+                    "nota": "",
+                    "descrizione": "Odore fresco e verde che ricorda il melone, la viola, ma anche il vento marino e la biancheria pulita.",
+                    "durata": "4 h"
+                },
+                {
+                    "id": 106,
+                    "nome": "OCTINE CARBONATO METILE 10% TRI",
+                    "casn": "",
+                    "nota": "testa/cuore",
+                    "descrizione": "Odore intenso verde, di foglie di violetta, con un sottotono vegetale come di cetriolo.",
+                    "durata": "112h"
+                },
+                {
+                    "id": 109,
+                    "nome": "Pharone",
+                    "casn": "313973-37-4",
+                    "nota": "",
+                    "descrizione": "Odore verde intenso ed elegante. Utile come nota di ananas e galbano",
+                    "durata": "96 h"
+                },
+                {
+                    "id": 124,
+                    "nome": "Stemone Puro",
+                    "casn": "22457-23-4",
+                    "nota": "cuore",
+                    "descrizione": "Odore forte, verde, fogliaceo, che ricorda la foglia di fico.",
+                    "durata": "16 h"
+                },
+                {
+                    "id": 129,
+                    "nome": "VERTOCITRAL C 10% TRI",
+                    "casn": "",
+                    "nota": "testa",
+                    "descrizione": "Odore forte, verde, erbaceo e con un sottotono citrico.",
+                    "durata": "8h"
+                }
+            ]
+        },
+        {
+            "nome": "Altro",
+            "color": "#0b97a8",
+            "items": [
+                {
+                    "id": 9,
+                    "nome": "Adoxal",
+                    "casn": "141-13-9",
+                    "nota": "",
+                    "descrizione": "Odore naturale e ozonico con elementi di \"lino fresco\". Si sposa molto bene con note floreali come mughetto e ciclamino, così come con composizioni fruttate e legnose.",
+                    "durata": "48 h"
+                },
+                {
+                    "id": 14,
+                    "nome": "Aldeide C12 Laurica",
+                    "casn": "112-54-9",
+                    "nota": "",
+                    "descrizione": "Odore saponoso e grasso reminiscente di arancia",
+                    "durata": ""
+                },
+                {
+                    "id": 19,
+                    "nome": "Aldeide Ciclamino",
+                    "casn": "103-95-7",
+                    "nota": "cuore",
+                    "descrizione": "Odore fiorito, acquatico, fresco, di ciclamino con sfumature verdi.",
+                    "durata": "72 h"
+                },
+                {
+                    "id": 24,
+                    "nome": "Ambrox Super 10% IPM",
+                    "casn": "6790-58-5",
+                    "nota": "coda",
+                    "descrizione": "Odore ambrato estremamente potente ed elegante con tonalità muschiate e legnose. ",
+                    "durata": "600h"
+                },
+                {
+                    "id": 26,
+                    "nome": "Aphermate (IFF)",
+                    "casn": "25225-08-5",
+                    "nota": "testa/cuore",
+                    "descrizione": "Odore complesso marino fresco, di pino, erbaceo e terroso con aspetti fruttati di mela a basse concentrazioni",
+                    "durata": "12 h"
+                },
+                {
+                    "id": 29,
+                    "nome": "ASS. MIMOSA",
+                    "casn": "",
+                    "nota": "cuore",
+                    "descrizione": "Odore fiorito, dal carattere polveroso e dolce (eliotropio, biancospino) con sottotoni verdi e grassi di cetriolo.",
+                    "durata": "400h"
+                },
+                {
+                    "id": 32,
+                    "nome": "ASS. SALVIA SCLAREA 10%",
+                    "casn": "",
+                    "nota": "cuore",
+                    "descrizione": "Odore dolce aromatico, con sfumaturare ambrate e leggermente animali",
+                    "durata": "40h"
+                },
+                {
+                    "id": 34,
+                    "nome": "Benzoato Benzile",
+                    "casn": "120-51-4",
+                    "nota": "cuore",
+                    "descrizione": "balsamico dolce ",
+                    "durata": "322h"
+                },
+                {
+                    "id": 37,
+                    "nome": "Calone 1951",
+                    "casn": "28940-11-6",
+                    "nota": "coda",
+                    "descrizione": "Odore fresco, marino, minerale, con sfumature fruttate.",
+                    "durata": "600h"
+                },
+                {
+                    "id": 38,
+                    "nome": "Chamomile Isobutyrate Isopentyrate (Firmenich)",
+                    "casn": "80118-06-5 ",
+                    "nota": "testa",
+                    "descrizione": "Odore fresco di camomilla.",
+                    "durata": "12 h"
+                },
+                {
+                    "id": 40,
+                    "nome": "CUMARINA 10% TRI",
+                    "casn": "",
+                    "nota": "coda",
+                    "descrizione": "Odore dolce gourmand di fava tonka, cipriato con sfumature fruttate e di fieno",
+                    "durata": "374h"
+                },
+                {
+                    "id": 42,
+                    "nome": "Di-Propilene-Glicole",
+                    "casn": "25265-71-8",
+                    "nota": "n.a.",
+                    "descrizione": "Inodore",
+                    "durata": "400 h"
+                },
+                {
+                    "id": 43,
+                    "nome": "DIHYDROMIRCENOLO",
+                    "casn": "",
+                    "nota": "cuore",
+                    "descrizione": "Odore fresco e pulito, fiorito e aromatico di lavanda, caratteristico di nuova freschezza. ",
+                    "durata": "16h"
+                },
+                {
+                    "id": 46,
+                    "nome": "ESS. Bergamotto FCF",
+                    "casn": "68648-33-9",
+                    "nota": "testa",
+                    "descrizione": "Odore fresco di agrumi, leggermente fiorito e aromatico, tipico di bergamotto.",
+                    "durata": "3h"
+                },
+                {
+                    "id": 48,
+                    "nome": "ESS. CAMOMILLA MAROCCO",
+                    "casn": "",
+                    "nota": "cuore",
+                    "descrizione": "Odore fiorito dolce, con sfumature fruttate e balsamiche, leggermente erbacea",
+                    "durata": "233h"
+                },
+                {
+                    "id": 49,
+                    "nome": "ESS. CANNELLA CINA 1% TRI",
+                    "casn": "",
+                    "nota": "cuore",
+                    "descrizione": "Odore speziato dolce, piccante e orientale",
+                    "durata": "160h"
+                },
+                {
+                    "id": 50,
+                    "nome": "ESS. Cardamomo 10% TRI",
+                    "casn": "85940-32-5",
+                    "nota": "testa",
+                    "descrizione": "Odore speziato fresco, con sfumature agrumate",
+                    "durata": "40h"
+                },
+                {
+                    "id": 55,
+                    "nome": "ESS. Incenso Puro",
+                    "casn": "89957-98-2",
+                    "nota": "testa",
+                    "descrizione": "Odore balsamico con intense sfumature aromatiche e agrumate in testa",
+                    "durata": "165h"
+                },
+                {
+                    "id": 56,
+                    "nome": "ESS. Labdano Incolore (Waterlight)",
+                    "casn": "8016-26-0",
+                    "nota": "cuore",
+                    "descrizione": "Odore resinoso, dolce gourmand, ambrato e balsamico",
+                    "durata": "400h"
+                },
+                {
+                    "id": 57,
+                    "nome": "ESS. LAVANDINO GROSSO",
+                    "casn": "",
+                    "nota": "testa",
+                    "descrizione": "Odore aromatico e fiorito fresco, erbaceo e agreste con sfumature canforacee e agrumate di bergamotto",
+                    "durata": "20h"
+                },
+                {
+                    "id": 59,
+                    "nome": "ESS. LIMONE ITALIA",
+                    "casn": "",
+                    "nota": "testa",
+                    "descrizione": "Odore caratteristico di buccia di limone.",
+                    "durata": "n.d."
+                },
+                {
+                    "id": 60,
+                    "nome": "ESS. Mandarino Giallo",
+                    "casn": "8008-31-9",
+                    "nota": "testa",
+                    "descrizione": "Odore dolce e agrumato tipico della buccia del mandarino, con accenti fioriti di fior d’arancio e aromatici di timo.",
+                    "durata": "8h"
+                },
+                {
+                    "id": 61,
+                    "nome": "ESS. MIRRA 10% APV",
+                    "casn": "",
+                    "nota": "coda",
+                    "descrizione": "Odore balsamico ambrato, con accenti amari di liquirizia.",
+                    "durata": "98h"
+                },
+                {
+                    "id": 62,
+                    "nome": "ESS. MIRRA 10% APV",
+                    "casn": "9000-45-7",
+                    "nota": "coda",
+                    "descrizione": "Odore balsamico ambrato, con accenti amari di liquirizia.",
+                    "durata": "98 h"
+                },
+                {
+                    "id": 64,
+                    "nome": "ESS. NOCE MOSCATA RID. SAFROLO",
+                    "casn": "",
+                    "nota": "cuore",
+                    "descrizione": "Odore gradevole e speziato, con sfumature fresche e terpeniche.",
+                    "durata": "52h"
+                },
+                {
+                    "id": 68,
+                    "nome": "ESS. PEPE ROSA",
+                    "casn": "",
+                    "nota": "testa",
+                    "descrizione": "Odore speziato e pepato, più fresco del pepe nero. Nel cuore, e sicuramente nel fondo, rimane poco della fragranza.",
+                    "durata": ""
+                },
+                {
+                    "id": 73,
+                    "nome": "ETILENE BRASSILATE",
+                    "casn": "",
+                    "nota": "coda",
+                    "descrizione": "Odore muschiato dolce, leggemente animale, che ricorda il muschio ambretta, con sottotono fiorito.",
+                    "durata": "208h"
+                },
+                {
+                    "id": 74,
+                    "nome": "Eugenolo",
+                    "casn": "97-53-0",
+                    "nota": "cuore",
+                    "descrizione": "Odore speziato caldo, di chiodi di garofano e cannella",
+                    "durata": "52h"
+                },
+                {
+                    "id": 78,
+                    "nome": "FLORHYDRAL",
+                    "casn": "",
+                    "nota": "cuore",
+                    "descrizione": "Odore fiorito fresco, potente, di mughetto e tiglio con sfumature verdi.",
+                    "durata": "144h"
+                },
+                {
+                    "id": 79,
+                    "nome": "Florol",
+                    "casn": "63500-71-0",
+                    "nota": "cuore",
+                    "descrizione": "Odore fiorito, fresco, morbido di fiori.",
+                    "durata": "24 h"
+                },
+                {
+                    "id": 80,
+                    "nome": "Galaxolide 50% IPM",
+                    "casn": "1222-05-5",
+                    "nota": "coda",
+                    "descrizione": "Odore muschiato bianco, con una persistenza trasparente ed un carattere pulito.",
+                    "durata": "400h"
+                },
+                {
+                    "id": 82,
+                    "nome": "Geosmina",
+                    "casn": "16423-19-1",
+                    "nota": "coda",
+                    "descrizione": "Odore di pioggia, di terra bagnata.",
+                    "durata": "68 h"
+                },
+                {
+                    "id": 85,
+                    "nome": "HABANOLIDE",
+                    "casn": "",
+                    "nota": "coda",
+                    "descrizione": "Odore muschiato, pulito, potente ed elegante con elementi talcati e una sfumatura leggermente metallica.",
+                    "durata": "348h"
+                },
+                {
+                    "id": 90,
+                    "nome": "IDROSSICITRONELLALE",
+                    "casn": "",
+                    "nota": "coda",
+                    "descrizione": "Odore fiorito fresco di mughetto, con sfacettature trasparenti di petalo, leggermente grassa.",
+                    "durata": "218h"
+                },
+                {
+                    "id": 91,
+                    "nome": "INDOLO 1% TRI",
+                    "casn": "",
+                    "nota": "cuore",
+                    "descrizione": "Odore pungente, animale e fecale, con reminiscenze di naftalina e nuance fiorito-narcotiche.",
+                    "durata": "400h"
+                },
+                {
+                    "id": 95,
+                    "nome": "ISORALDEINA",
+                    "casn": "",
+                    "nota": "cuore",
+                    "descrizione": "Odore fiorito, di iris e violetta, con carattere cipriato e sfumature legnose e fruttate.",
+                    "durata": "184h"
+                },
+                {
+                    "id": 97,
+                    "nome": "Lindenol",
+                    "casn": "98-55-5",
+                    "nota": "",
+                    "descrizione": "Odore di fiori freschi con un leggero aspetto di conifere.",
+                    "durata": ""
+                },
+                {
+                    "id": 100,
+                    "nome": "Mentolo Extra (cristalli)",
+                    "casn": "89-78-1",
+                    "nota": "testa",
+                    "descrizione": "Odore mentolata pungente, dalla freschezza importante.",
+                    "durata": "32 h"
+                },
+                {
+                    "id": 101,
+                    "nome": "Methyl Ionone Gamma Coeur",
+                    "casn": "1322-70-9",
+                    "nota": "",
+                    "descrizione": "Odore cipriato: iris, viola, ma anche tabacco e legno",
+                    "durata": ""
+                },
+                {
+                    "id": 102,
+                    "nome": "METIL ISO EUGENOLO",
+                    "casn": "93-16-3",
+                    "nota": "cuore",
+                    "descrizione": "Odore delicato di chiodi di garofano.",
+                    "durata": "240 h"
+                },
+                {
+                    "id": 113,
+                    "nome": "Resinoide di Mirra 50% FE",
+                    "casn": "9000-45-7",
+                    "nota": "coda",
+                    "descrizione": "Odore balsamico ambrato, con accenti amari di liquirizia.",
+                    "durata": "98 h"
+                },
+                {
+                    "id": 118,
+                    "nome": "SAFRANAL BOTTIGLIA GR 10",
+                    "casn": "",
+                    "nota": "testa/cuore",
+                    "descrizione": "Odore speziato pungente, con accenti cuoiati, richiama lo zafferano.",
+                    "durata": "72h"
+                },
+                {
+                    "id": 119,
+                    "nome": "SALICILATO BENZILE",
+                    "casn": "",
+                    "nota": "cuore/coda",
+                    "descrizione": "Odore fiorito e trasparente di fiori bianchi e garofano, con sfumature balsamiche molto diffusive.",
+                    "durata": "384h"
+                },
+                {
+                    "id": 123,
+                    "nome": "Scentenal",
+                    "casn": "86803-90-9",
+                    "nota": "",
+                    "descrizione": "Odore acquatico, ozonico, reminescente dell'odore delle alghe.",
+                    "durata": ""
+                },
+                {
+                    "id": 125,
+                    "nome": "Suederal",
+                    "casn": "miscela",
+                    "nota": "coda",
+                    "descrizione": "Intenso odore di pelle scamosciata, fenolico e con sfaccettature fumose.",
+                    "durata": ""
+                },
+                {
+                    "id": 126,
+                    "nome": "Triacetina",
+                    "casn": "102-76-1",
+                    "nota": "n.a.",
+                    "descrizione": "Inodore",
+                    "durata": ""
+                },
+                {
+                    "id": 128,
+                    "nome": "Vanillina 10% TRI",
+                    "casn": "121-33-5",
+                    "nota": "coda",
+                    "descrizione": "Odore intenso e dolce, molto persistente, cremoso e polveroso di vaniglia. ",
+                    "durata": "400h"
+                },
+                {
+                    "id": 132,
+                    "nome": "WORMWOOD OIL (artemisia absinthium)",
+                    "casn": "",
+                    "nota": "testa/cuore",
+                    "descrizione": "Odore aromatico fresco, con sottotoni amari ed erbacei che ricordano l’assenzio.",
+                    "durata": "36h"
+                }
+            ]
+        },
+        {
+            "nome": "Incensi",
+            "color": "#5342eb",
+            "items": [
+                {
+                    "id": 13,
+                    "nome": "Aldeide C-12 MNA",
+                    "casn": "110-41-8",
+                    "nota": "cuore",
+                    "descrizione": "Odore grasso con note di incenso e ambra grigia, con sfumature fiorite e agrumate",
+                    "durata": "308 h"
+                }
+            ]
+        },
+        {
+            "nome": "Fruttato",
+            "color": "#8253d8",
+            "items": [
+                {
+                    "id": 15,
+                    "nome": "Aldeide C14 10% TRI",
+                    "casn": "104-67-6",
+                    "nota": "cuore",
+                    "descrizione": "Odore lattonico fruttato dolce, di pesca/albicocca, con sfumature cremose e cerose.",
+                    "durata": "338h"
+                },
+                {
+                    "id": 16,
+                    "nome": "Aldeide C18",
+                    "casn": "104-61-0",
+                    "nota": "cuore/coda",
+                    "descrizione": "Odore fruttato caratteristico di cocco, grasso e cremoso.",
+                    "durata": "309h"
+                },
+                {
+                    "id": 21,
+                    "nome": "Allil Amil Glicolate 1% TRI",
+                    "casn": "67634-00-8",
+                    "nota": "testa",
+                    "descrizione": "odore fruttato ananas galbano ",
+                    "durata": "84 h"
+                },
+                {
+                    "id": 25,
+                    "nome": "Antranilato Metile",
+                    "casn": "134-20-3",
+                    "nota": "cuore/coda",
+                    "descrizione": "Odore fruttato, di uva, ma anche fiorito e gourmand, con sentori di fiori d’arancio.",
+                    "durata": "88 h"
+                },
+                {
+                    "id": 36,
+                    "nome": "BUTIRRATO ETILE BOTTIGLIA GR 10",
+                    "casn": "",
+                    "nota": "testa",
+                    "descrizione": "Odore fruttato fresco, di ananas e frutti tropicali, con sentori eterei di cognac.",
+                    "durata": "4h"
+                },
+                {
+                    "id": 81,
+                    "nome": "GAMMA-OCTALACTONE",
+                    "casn": "104-50-7",
+                    "nota": "cuore/coda",
+                    "descrizione": "Fornisce note che evocano il cocco e il latte. Odore fruttato lattonico di cocco, con accenti grassi.",
+                    "durata": "144 h"
+                }
+            ]
+        },
+        {
+            "nome": "Non Specificato",
+            "color": "#b6400b",
+            "items": [
+                {
+                    "id": 33,
+                    "nome": "ASS. TABACCO DENICOTINATE",
+                    "casn": "",
+                    "nota": "",
+                    "descrizione": "",
+                    "durata": ""
+                },
+                {
+                    "id": 51,
+                    "nome": "ESS. CYPRIOL",
+                    "casn": "",
+                    "nota": "",
+                    "descrizione": "",
+                    "durata": ""
+                },
+                {
+                    "id": 52,
+                    "nome": "ESS. GALBANO PURO",
+                    "casn": "",
+                    "nota": "",
+                    "descrizione": "",
+                    "durata": ""
+                },
+                {
+                    "id": 53,
+                    "nome": "ESS. GINEPRO FOGLIE PURO",
+                    "casn": "",
+                    "nota": "",
+                    "descrizione": "",
+                    "durata": ""
+                },
+                {
+                    "id": 54,
+                    "nome": "ESS. GUAIAC WOOD",
+                    "casn": "",
+                    "nota": "",
+                    "descrizione": "",
+                    "durata": ""
+                },
+                {
+                    "id": 63,
+                    "nome": "ESS. NEROLI EGITTO",
+                    "casn": "",
+                    "nota": "",
+                    "descrizione": "",
+                    "durata": ""
+                },
+                {
+                    "id": 65,
+                    "nome": "ESS. ORIGANO MAROCCO NATURALE",
+                    "casn": "",
+                    "nota": "",
+                    "descrizione": "",
+                    "durata": ""
+                },
+                {
+                    "id": 69,
+                    "nome": "ESS. PETITGRAYN PARAGUAY",
+                    "casn": "",
+                    "nota": "",
+                    "descrizione": "",
+                    "durata": ""
+                },
+                {
+                    "id": 70,
+                    "nome": "ESS. SANDALO AGMARKED",
+                    "casn": "",
+                    "nota": "",
+                    "descrizione": "",
+                    "durata": ""
+                },
+                {
+                    "id": 94,
+                    "nome": "ISOBUTILCHINOLEINA",
+                    "casn": "",
+                    "nota": "",
+                    "descrizione": "",
+                    "durata": ""
+                },
+                {
+                    "id": 104,
+                    "nome": "Muschio Bianco",
+                    "casn": "",
+                    "nota": "",
+                    "descrizione": "",
+                    "durata": ""
+                },
+                {
+                    "id": 110,
+                    "nome": "Pino Cembro",
+                    "casn": "",
+                    "nota": "",
+                    "descrizione": "",
+                    "durata": ""
+                },
+                {
+                    "id": 111,
+                    "nome": "POLYSANTOL",
+                    "casn": "",
+                    "nota": "",
+                    "descrizione": "",
+                    "durata": ""
+                },
+                {
+                    "id": 112,
+                    "nome": "RESINOIDE BENZOINO SUMATRA 50% FE",
+                    "casn": "",
+                    "nota": "",
+                    "descrizione": "",
+                    "durata": ""
+                },
+                {
+                    "id": 114,
+                    "nome": "RESINOIDE ELEMI",
+                    "casn": "",
+                    "nota": "",
+                    "descrizione": "",
+                    "durata": ""
+                },
+                {
+                    "id": 121,
+                    "nome": "SANDALMYSORE",
+                    "casn": "",
+                    "nota": "",
+                    "descrizione": "",
+                    "durata": ""
+                }
+            ]
+        }
+    ]
+}
