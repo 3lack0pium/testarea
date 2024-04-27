@@ -1,0 +1,821 @@
+{
+    "categorie": [
+        {
+            "nome": "acquatico",
+            "color": "#3da4ab",
+            "items": [
+                {
+                    "id": 1,
+                    "nome": "Aldeide Ciclamino",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 2,
+                    "nome": "Geosmina",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 3,
+                    "nome": "Scentenal",
+                    "type": "aroma chemicals"
+                }
+            ]
+        },
+        {
+            "nome": "ambrato",
+            "color": "#ff9900",
+            "items": [
+                {
+                    "id": 4,
+                    "nome": "Amber Core",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 5,
+                    "nome": "Ambranextra Puro (solido)",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 6,
+                    "nome": "Ambrox Super 10% IPM",
+                    "type": "aroma chemicals"
+                }
+            ]
+        },
+        {
+            "nome": "animalico",
+            "color": "#000000",
+            "items": [
+                {
+                    "id": 7,
+                    "nome": "Ass. Castoreo",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 8,
+                    "nome": "Ass. Tabacco Decotinato",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 9,
+                    "nome": "Indolo 1% TRI",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 10,
+                    "nome": "Para-Cresolo",
+                    "type": "aroma chemicals"
+                }
+            ]
+        },
+        {
+            "nome": "aromatico",
+            "color": "#000000",
+            "items": [
+                {
+                    "id": 11,
+                    "nome": "ESS. Aghi di Pino",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 12,
+                    "nome": "ESS. Labdano Incolore (Waterlight)",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 13,
+                    "nome": "ESS. Lavandino Grosso",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 14,
+                    "nome": "ESS. Origano del Marocco",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 15,
+                    "nome": "Mentolo Extra (cristalli)",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 16,
+                    "nome": "Wormwood Oil (artemisia absinthium)",
+                    "type": "aroma chemicals"
+                }
+            ]
+        },
+        {
+            "nome": "balsamico",
+            "color": "#000000",
+            "items": [
+                {
+                    "id": 17,
+                    "nome": "Benzoato Benzile",
+                    "type": "aroma chemicals"
+                }
+            ]
+        },
+        {
+            "nome": "cipriato",
+            "color": "#000000",
+            "items": [
+                {
+                    "id": 18,
+                    "nome": "Cumarina 10% TRI",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 19,
+                    "nome": "Methyl Ionone Gamma Coeur",
+                    "type": "aroma chemicals"
+                }
+            ]
+        },
+        {
+            "nome": "cocco",
+            "color": "#000000",
+            "items": [
+                {
+                    "id": 20,
+                    "nome": "Aldeide C18",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 21,
+                    "nome": "Gamma-Octalactone",
+                    "type": "aroma chemicals"
+                }
+            ]
+        },
+        {
+            "nome": "cuoiato",
+            "color": "#000000",
+            "items": [
+                {
+                    "id": 22,
+                    "nome": "ESS. Betulla Rett.",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 23,
+                    "nome": "Isobutilchinoleina",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 24,
+                    "nome": "Suederal",
+                    "type": "miscela"
+                }
+            ]
+        },
+        {
+            "nome": "Diluente",
+            "color": "#000000",
+            "items": [
+                {
+                    "id": 25,
+                    "nome": "Di-Propilene-Glicole",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 26,
+                    "nome": "Triacetina",
+                    "type": "aroma chemicals"
+                }
+            ]
+        },
+        {
+            "nome": "esperidato",
+            "color": "#000000",
+            "items": [
+                {
+                    "id": 27,
+                    "nome": "Aldeide C9",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 28,
+                    "nome": "ESS. Bergamotto FCF",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 29,
+                    "nome": "ESS. Limone Italiano",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 30,
+                    "nome": "ESS. Mandarino Giallo",
+                    "type": "aroma chemicals"
+                }
+            ]
+        },
+        {
+            "nome": "fico",
+            "color": "#000000",
+            "items": [
+                {
+                    "id": 31,
+                    "nome": "FICO 30865 ADO BOTTIGLIA GR 10",
+                    "type": "miscela"
+                }
+            ]
+        },
+        {
+            "nome": "florale bianco",
+            "color": "#000000",
+            "items": [
+                {
+                    "id": 32,
+                    "nome": "Aldeide Alfa Exilcinnamica",
+                    "type": "aroma chemicals"
+                }
+            ]
+        },
+        {
+            "nome": "floreale",
+            "color": "#000000",
+            "items": [
+                {
+                    "id": 33,
+                    "nome": "Acetato Linalile",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 34,
+                    "nome": "Ass. Salvia Sclarea 10%",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 35,
+                    "nome": "Diidromircenolo",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 36,
+                    "nome": "ESS. Camomilla del Marocco",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 37,
+                    "nome": "ESS. Neroli Egiziano",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 38,
+                    "nome": "Etil Linalolo",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 39,
+                    "nome": "Florhydral",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 40,
+                    "nome": "Ionone Alfa",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 41,
+                    "nome": "Isoraldeina",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 42,
+                    "nome": "Linalolo",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 43,
+                    "nome": "Lindenol",
+                    "type": "aroma chemicals"
+                }
+            ]
+        },
+        {
+            "nome": "floreale bianco",
+            "color": "#000000",
+            "items": [
+                {
+                    "id": 44,
+                    "nome": "Acetato Benzile",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 45,
+                    "nome": "Idrossicitronellale",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 46,
+                    "nome": "Salicilato Benzile",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 47,
+                    "nome": "Salicilato Metile",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 48,
+                    "nome": "Tuberose HS4755",
+                    "type": "miscela"
+                }
+            ]
+        },
+        {
+            "nome": "floreale giallo",
+            "color": "#000000",
+            "items": [
+                {
+                    "id": 49,
+                    "nome": "Ass. Mimosa",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 50,
+                    "nome": "Chamomile Isobutyrate Isopentyrate (Firmenich)",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 51,
+                    "nome": "Heliotropex N (IFF)",
+                    "type": "miscela"
+                }
+            ]
+        },
+        {
+            "nome": "fruttato",
+            "color": "#000000",
+            "items": [
+                {
+                    "id": 52,
+                    "nome": "Agrumex",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 53,
+                    "nome": "Aldeide C14 10% TRI",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 54,
+                    "nome": "Allil Amil Glicolate 1% TRI",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 55,
+                    "nome": "Antranilato Metile",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 56,
+                    "nome": "Beta Damascone",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 57,
+                    "nome": "Butirrato Etile",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 58,
+                    "nome": "Manzanate 1% TRI",
+                    "type": "aroma chemicals"
+                }
+            ]
+        },
+        {
+            "nome": "gourmand",
+            "color": "#000000",
+            "items": [
+                {
+                    "id": 59,
+                    "nome": "Vanillina 10% TRI",
+                    "type": "aroma chemicals"
+                }
+            ]
+        },
+        {
+            "nome": "incensato",
+            "color": "#c0c0c0",
+            "items": [
+                {
+                    "id": 60,
+                    "nome": "Aldeide C-12 MNA",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 61,
+                    "nome": "ESS. Incenso Puro",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 62,
+                    "nome": "ESS. Mirra 10% APV",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 63,
+                    "nome": "Resinoide di Benzoino di Sumatra 50% FE",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 64,
+                    "nome": "Resinoide di Elemi",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 65,
+                    "nome": "Resinoide di Mirra 50% FE",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 66,
+                    "nome": "Resinoide di Storace",
+                    "type": "aroma chemicals"
+                }
+            ]
+        },
+        {
+            "nome": "legnoso",
+            "color": "#8b4513",
+            "items": [
+                {
+                    "id": 67,
+                    "nome": "Acetato Cedrile",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 68,
+                    "nome": "Ass. Muschio di Quercia",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 69,
+                    "nome": "ESS. Agarwood Ricotruito",
+                    "type": "miscela"
+                },
+                {
+                    "id": 70,
+                    "nome": "ESS. Cypriol",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 71,
+                    "nome": "ESS. Legno di Cedro della Virginia",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 72,
+                    "nome": "ESS. Legno di Guaiaco",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 73,
+                    "nome": "ESS. Sandalo Agmarked",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 74,
+                    "nome": "Iso E Super",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 75,
+                    "nome": "Mousse de Metre 10% TRI",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 76,
+                    "nome": "Polysantol",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 77,
+                    "nome": "Sandalmysore",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 78,
+                    "nome": "Sandalore",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 79,
+                    "nome": "Vertofix Coeur",
+                    "type": "aroma chemicals"
+                }
+            ]
+        },
+        {
+            "nome": "marino",
+            "color": "#70a1d7",
+            "items": [
+                {
+                    "id": 80,
+                    "nome": "Aphermate (IFF)",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 81,
+                    "nome": "Calone 1951",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 82,
+                    "nome": "Melonal",
+                    "type": "aroma chemicals"
+                }
+            ]
+        },
+        {
+            "nome": "musk",
+            "color": "#000000",
+            "items": [
+                {
+                    "id": 83,
+                    "nome": "Etilene Brassilate",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 84,
+                    "nome": "Galaxolide 50% IPM",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 85,
+                    "nome": "Habanolide",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 86,
+                    "nome": "Muschio Bianco",
+                    "type": "miscela"
+                }
+            ]
+        },
+        {
+            "nome": "ozonico",
+            "color": "#000000",
+            "items": [
+                {
+                    "id": 87,
+                    "nome": "Adoxal",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 88,
+                    "nome": "FLORALOZONE",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 89,
+                    "nome": "Hedione",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 90,
+                    "nome": "Helional",
+                    "type": "aroma chemicals"
+                }
+            ]
+        },
+        {
+            "nome": "rosa",
+            "color": "#000000",
+            "items": [
+                {
+                    "id": 91,
+                    "nome": "Accordo Rosa",
+                    "type": "miscela"
+                },
+                {
+                    "id": 92,
+                    "nome": "Acetato Feniletile",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 93,
+                    "nome": "Acetato Geranile",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 94,
+                    "nome": "Acetato Nerile",
+                    "type": "Raw Material"
+                },
+                {
+                    "id": 95,
+                    "nome": "Alcool Feniletilico",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 96,
+                    "nome": "Aldeide C12 Laurica",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 97,
+                    "nome": "Alfa Damascone 10% TRI",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 98,
+                    "nome": "Ass. Rosa Centifolia (Turchia)",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 99,
+                    "nome": "Citronellolo 950",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 100,
+                    "nome": "Damascenone 1% TRI",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 101,
+                    "nome": "Farnesolo",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 102,
+                    "nome": "Florol",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 103,
+                    "nome": "Geraniolo TA 5020",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 104,
+                    "nome": "Nerolo",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 105,
+                    "nome": "Ossido Di Rosa",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 106,
+                    "nome": "Rosamon 10% TRI",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 107,
+                    "nome": "Rosaphen",
+                    "type": "aroma chemicals"
+                }
+            ]
+        },
+        {
+            "nome": "speziato",
+            "color": "#000000",
+            "items": [
+                {
+                    "id": 108,
+                    "nome": "ESS. Cannella della Cina 1% TRI",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 109,
+                    "nome": "ESS. Cardamomo 10% TRI",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 110,
+                    "nome": "ESS. Ginepro Foglie Puro",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 111,
+                    "nome": "ESS. Noce Moscata Rid. Safrolo",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 112,
+                    "nome": "ESS. Pepe Nero",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 113,
+                    "nome": "ESS. Pepe Rosa",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 114,
+                    "nome": "Eugenolo",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 115,
+                    "nome": "Metil Iso Eugenolo",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 116,
+                    "nome": "Safranal",
+                    "type": "aroma chemicals"
+                }
+            ]
+        },
+        {
+            "nome": "terroso",
+            "color": "#000000",
+            "items": [
+                {
+                    "id": 117,
+                    "nome": "ESS. Vetiver di Giava",
+                    "type": "aroma chemicals"
+                }
+            ]
+        },
+        {
+            "nome": "verde",
+            "color": "#3a5f0b",
+            "items": [
+                {
+                    "id": 118,
+                    "nome": "Aldeide C6",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 119,
+                    "nome": "Ass. Mate Decaffeinato",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 120,
+                    "nome": "ESS. Galbano Puro",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 121,
+                    "nome": "ESS. Patchouli",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 122,
+                    "nome": "ESS. Petitgrain Paraguay",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 123,
+                    "nome": "Green Dioxolane (Syvertal)",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 124,
+                    "nome": "Herbavert",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 125,
+                    "nome": "Octine Carbonato Metile 10% TRI",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 126,
+                    "nome": "Pino Cembro",
+                    "type": "miscela"
+                },
+                {
+                    "id": 127,
+                    "nome": "Stemone Puro",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 128,
+                    "nome": "Vertocitral C 10% TRI",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 129,
+                    "nome": "Viridine",
+                    "type": "aroma chemicals"
+                },
+                {
+                    "id": 130,
+                    "nome": "Pharone",
+                    "type": "aroma chemicals"
+                }
+            ]
+        },
+        {
+            "nome": "nan",
+            "color": "#000000",
+            "items": [
+                {
+                    "id": 131,
+                    "nome": "Acetato Exile",
+                    "type": "aroma chemicals"
+                }
+            ]
+        }
+    ]
+}
